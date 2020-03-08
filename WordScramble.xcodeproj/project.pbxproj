@@ -13,6 +13,7 @@
 		5014544B2412C90A003D541C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5014544A2412C90A003D541C /* Assets.xcassets */; };
 		5014544E2412C90A003D541C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5014544D2412C90A003D541C /* Preview Assets.xcassets */; };
 		501454512412C90A003D541C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5014544F2412C90A003D541C /* LaunchScreen.storyboard */; };
+		501454592412D33B003D541C /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = 501454582412D33B003D541C /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		5014544D2412C90A003D541C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		501454502412C90A003D541C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		501454522412C90A003D541C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		501454582412D33B003D541C /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				501454482412C90A003D541C /* ContentView.swift */,
 				5014544A2412C90A003D541C /* Assets.xcassets */,
 				5014544F2412C90A003D541C /* LaunchScreen.storyboard */,
+				501454582412D33B003D541C /* start.txt */,
 				501454522412C90A003D541C /* Info.plist */,
 				5014544C2412C90A003D541C /* Preview Content */,
 			);
@@ -134,6 +137,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				501454512412C90A003D541C /* LaunchScreen.storyboard in Resources */,
+				501454592412D33B003D541C /* start.txt in Resources */,
 				5014544E2412C90A003D541C /* Preview Assets.xcassets in Resources */,
 				5014544B2412C90A003D541C /* Assets.xcassets in Resources */,
 			);
